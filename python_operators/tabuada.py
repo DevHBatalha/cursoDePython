@@ -1,0 +1,12 @@
+numero = int(input('Escreva um número inteiro: '))
+
+print('A tabuada do número ', numero , ' * ', 1 , ' = ', numero * 1)
+print('A tabuada do número ', numero , ' * ', 2 , ' = ', numero * 2)
+print('A tabuada do número ', numero , ' * ', 3 , ' = ', numero * 3)
+print('A tabuada do número ', numero , ' * ', 4 , ' = ', numero * 4)
+print('A tabuada do número ', numero , ' * ', 5 , ' = ', numero * 5)
+print('A tabuada do número ', numero , ' * ', 6 , ' = ', numero * 6)
+print('A tabuada do número ', numero , ' * ', 7 , ' = ', numero * 7)
+print('A tabuada do número ', numero , ' * ', 8 , ' = ', numero * 8)
+print('A tabuada do número ', numero , ' * ', 9 , ' = ', numero * 9)
+print('A tabuada do número ', numero , ' * ', 10 , ' = ', numero * 10)
